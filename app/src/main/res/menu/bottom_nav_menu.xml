@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFrag"
+        android:title="@string/home"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/allQuotes"
+        android:title="@string/quotes_list"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/createQuote"
+        android:title="@string/create_quote"
+        android:icon="@drawable/ic_home"/>
+</menu>
